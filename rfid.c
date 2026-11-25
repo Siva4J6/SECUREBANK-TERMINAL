@@ -2,7 +2,7 @@
  * @file      rfid.c
  * @brief     EM18 RFID Reader Interrupt Driver
  * @hardware  NXP LPC2148 (UART1), EM18 RFID Module
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  * 
  * @note      Uses UART1 RX interrupt to asynchronously capture 8-digit RFID tags.
