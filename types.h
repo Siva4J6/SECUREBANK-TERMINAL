@@ -1,7 +1,7 @@
 /**
  * @file      types.h
  * @brief     Standard Type Definitions
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  */
 
