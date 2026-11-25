@@ -105,7 +105,8 @@ The system consists of the following major components:
 - Data Management: Structures, Linked Lists and File Handling
 
 ### Hardware Components
-![Uploading image.png…]()
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/361663f4-8460-49af-95d8-9424493710cd" />
+
 
 
 - NXP LPC2148 Microcontroller (ARM7TDMI-S)
