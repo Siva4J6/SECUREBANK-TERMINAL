@@ -2,7 +2,7 @@
  * @file      main.c
  * @brief     SecureBank ATM Terminal State Machine
  * @hardware  NXP LPC2148 (ARM7TDMI-S), 16x2 LCD, 4x4 Keypad, EM18 RFID
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  * 
  * @note      Implements an event-driven FSM (IDLE -> WAIT_PIN -> MENU) for 
