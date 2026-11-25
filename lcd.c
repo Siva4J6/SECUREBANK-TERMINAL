@@ -2,7 +2,7 @@
  * @file      lcd.c
  * @brief     16x2 Character LCD Driver (8-bit mode)
  * @hardware  NXP LPC2148
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  */
 
