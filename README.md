@@ -321,6 +321,8 @@ It transmits characters from A to Z and reads back the received characters to ve
 9. Run both applications and verify communication and transaction operations.
 
 ## Output Gallery
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/a1b5131e-00e0-4fc6-ab02-d3f364cee09c" />
+
 
 **1. RFID Authentication:** Reads the RFID card and validates the registered user.
 
@@ -341,6 +343,8 @@ It transmits characters from A to Z and reads back the received characters to ve
 *Add actual project photographs and LCD screenshots in this section.*
 
 ## Future Enhancements
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/7806a25a-2536-4602-8ca2-d78689d8392a" />
+
 
 - Implement AES encryption for secure UART communication.
 - Replace flat-file storage with an SQLite database.
