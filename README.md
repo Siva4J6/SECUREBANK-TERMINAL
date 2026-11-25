@@ -1,6 +1,7 @@
 # SECUREBANK-TERMINAL
 # SecureBank ATM Terminal 🏦
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/2f0449ba-43b8-4cd2-989c-2290a6292ff9" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/c93000be-01ff-4dba-8ff7-0f74a07334d7" />
+
 
 ### RFID and PIN-Based ATM Transaction Simulator with PC Database Integration
 
@@ -91,6 +92,8 @@ The system consists of the following major components:
 ## Tech Stack & Hardware
 
 ### Software & Tools
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/eb2cd7de-3a1a-407f-8c1c-08561007439f" />
+
 
 - Programming Language: Embedded C and C
 - Microcontroller IDE: Keil µVision
@@ -102,6 +105,8 @@ The system consists of the following major components:
 - Data Management: Structures, Linked Lists and File Handling
 
 ### Hardware Components
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8aa45b55-b207-4193-9027-dd5a2acbe216" />
+
 
 - NXP LPC2148 Microcontroller (ARM7TDMI-S)
 - RFID Reader Module
