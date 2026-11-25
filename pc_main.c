@@ -1,7 +1,7 @@
 /**
  * @file      pc_main.c
  * @brief     SecureBank PC Server Daemon
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  * 
  * @note      Handles UART request/reply protocol, flat-file database 
