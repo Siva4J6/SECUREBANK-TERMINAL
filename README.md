@@ -31,7 +31,8 @@ The LPC2148 microcontroller manages the ATM operations and displays information 
 The PC-side application validates user credentials, manages account balances, processes transactions, updates user records, and maintains transaction history using file handling and data structures.
 
 ### Block Diagram & System Workflow
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee6d4eae-8e7c-4574-bb04-0bbc8434956b" />
+
 
 
 **1. Block Diagram**
