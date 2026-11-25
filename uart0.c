@@ -2,7 +2,7 @@
  * @file      uart0.c
  * @brief     UART0 Driver for PC/Server Communication
  * @hardware  NXP LPC2148 (UART0 on P0.0 and P0.1)
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  * 
  * @note      Configured for 9600 Baud, 8 Data Bits, 1 Stop Bit, No Parity (8N1).
