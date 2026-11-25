@@ -1,5 +1,7 @@
 # SECUREBANK-TERMINAL
 # SecureBank ATM Terminal 🏦
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/2f0449ba-43b8-4cd2-989c-2290a6292ff9" />
+
 ### RFID and PIN-Based ATM Transaction Simulator with PC Database Integration
 
 A dual-platform embedded ATM transaction simulation featuring the NXP LPC2148 (ARM7TDMI-S) microcontroller and a Linux-based C application for banking database management.
