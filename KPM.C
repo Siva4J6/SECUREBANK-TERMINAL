@@ -2,7 +2,7 @@
  * @file      kpm.c
  * @brief     4x4 Matrix Keypad Driver
  * @hardware  NXP LPC2148, 4x4 Membrane Keypad
- * @author    Siva
+ * @author    Siva Reddy
  * @date      November 2026
  * 
  * @note      Custom mapping for SecureBank ATM UI.
