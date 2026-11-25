@@ -1,7 +1,7 @@
 /**
  * @file      lcd_defines.h
  * @brief     LCD Hardware Commands and Pin Mappings
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  */
 
