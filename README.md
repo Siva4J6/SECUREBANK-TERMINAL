@@ -275,25 +275,19 @@ SecureBank-ATM-Terminal/
 ### Phase 1: Linux UART Testing
 
 **Step 1:** Extract the UART loopback ZIP file.
-
 **Step 2:** Open the Linux terminal and navigate to the extracted directory.
-
 **Step 3:** Compile the UART program:
 
 ```bash
 gcc main.c uart.c -o uart_test
 ```
-
 **Step 4:** Connect the serial port in loopback configuration.
-
 **Step 5:** Execute the program:
 
 ```bash
 sudo ./uart_test
 ```
-
 The uploaded UART test program uses `/dev/ttyS0` with a baud rate of 57600.
-
 It transmits characters from A to Z and reads back the received characters to verify serial communication.
 
 ### Phase 2: Microcontroller Firmware Setup
@@ -325,19 +319,12 @@ It transmits characters from A to Z and reads back the received characters to ve
 
 
 **1. RFID Authentication:** Reads the RFID card and validates the registered user.
-
 **2. PIN Authentication:** Accepts the 4-digit PIN through the matrix keypad.
-
 **3. Main Menu:** Displays the available banking operations on the LCD.
-
 **4. Balance Enquiry:** Displays the current account balance.
-
 **5. Deposit:** Displays the updated balance after a successful deposit.
-
 **6. Withdrawal:** Displays withdrawal status and remaining balance.
-
 **7. PIN Change:** Displays the result of PIN modification.
-
 **8. Mini Statement:** Displays the latest three transactions.
 
 *Add actual project photographs and LCD screenshots in this section.*
@@ -352,15 +339,3 @@ It transmits characters from A to Z and reads back the received characters to ve
 - Add improved error handling and communication timeout detection.
 - Implement additional authentication mechanisms.
 - Enhance transaction history and reporting features.
-
----
-
-**Project Title:** SecureBank Terminal: RFID and PIN-Based ATM Transaction Simulator with PC Database Integration
-
-**Microcontroller:** LPC2148 (ARM7TDMI-S)
-
-**Programming Languages:** Embedded C, C
-
-**Communication:** UART
-
-**Development Tools:** Keil µVision, GCC, Flash Magic and Linux
