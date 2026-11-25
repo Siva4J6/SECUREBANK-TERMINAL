@@ -92,7 +92,7 @@ The system consists of the following major components:
 ## Tech Stack & Hardware
 
 ### Software & Tools
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/eb2cd7de-3a1a-407f-8c1c-08561007439f" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b78a14d0-368e-429d-9a1d-6def1ed5e714" />
 
 
 - Programming Language: Embedded C and C
@@ -105,7 +105,7 @@ The system consists of the following major components:
 - Data Management: Structures, Linked Lists and File Handling
 
 ### Hardware Components
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8aa45b55-b207-4193-9027-dd5a2acbe216" />
+![Uploading image.png…]()
 
 
 - NXP LPC2148 Microcontroller (ARM7TDMI-S)
