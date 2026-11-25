@@ -1,7 +1,7 @@
 /**
  * @file      uart.h
  * @brief     Linux Serial Port Driver Prototypes
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  */
 
