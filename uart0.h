@@ -1,7 +1,7 @@
 /**
  * @file      uart0.h
  * @brief     UART0 PC Communication Prototypes
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  *
  * @note      Polling-based interface for request/reply protocol with server.
