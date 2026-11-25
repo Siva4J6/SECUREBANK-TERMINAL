@@ -2,7 +2,7 @@
  * @file      delay.c
  * @brief     Software Delay Loops
  * @hardware  NXP LPC2148
- * @author    Shaik Abbas
+ * @author    Siva Reddy
  * @date      November 2026
  */
 
